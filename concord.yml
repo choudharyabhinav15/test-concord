@@ -3,11 +3,10 @@ configuration:
   - mvn://com.walmartlabs.concord.plugins:jenkins-task:1.30.0
   arguments:
     todoId: "1"
-    myVar: "world"
-    baseUrl: "http://104.214.35.206:8080/"
-    username: "jdominguez"
-    apiToken: "1177dcbd55b3f0b60ae190fd1b5e62aea0"
-    author: "Damys"
+    baseUrl: "http://localhost:8080/"
+    username: "admin"
+    apiToken: "11a04a04f826d8bfa2b06909eedc22a551"
+    author: "Abhinav"
 
 flows:
   #onPush:
