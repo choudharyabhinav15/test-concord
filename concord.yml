@@ -5,7 +5,7 @@ configuration:
     todoId: "1"
     baseUrl: "http://localhost:8082/"
     username: "admin"
-    apiToken: "11a04a04f826d8bfa2b06909eedc22a551"
+    apiToken: "11197dd352cece7099f2607827ddb3fcbbb"
     author: "Abhinav"
 
 flows:
