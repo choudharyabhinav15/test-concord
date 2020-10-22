@@ -3,7 +3,7 @@ configuration:
   - mvn://com.walmartlabs.concord.plugins:jenkins-task:1.30.0
   arguments:
     todoId: "1"
-    baseUrl: "http://localhost:8080/"
+    baseUrl: "http://localhost:8082/"
     username: "admin"
     apiToken: "11a04a04f826d8bfa2b06909eedc22a551"
     author: "Abhinav"
